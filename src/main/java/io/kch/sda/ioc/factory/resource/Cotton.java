@@ -1,4 +1,4 @@
-package io.kch.sda.ioc.factory.core.resource;
+package io.kch.sda.ioc.factory.resource;
 
 import org.springframework.stereotype.Component;
 

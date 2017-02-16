@@ -1,9 +1,9 @@
-package io.kch.sda.ioc.factory.core.factory;
+package io.kch.sda.ioc.factory.factory;
 
-import io.kch.sda.ioc.factory.core.good.Quality;
-import io.kch.sda.ioc.factory.core.good.Shirt;
-import io.kch.sda.ioc.factory.core.resource.Dye;
-import io.kch.sda.ioc.factory.core.resource.Fabric;
+import io.kch.sda.ioc.factory.good.Quality;
+import io.kch.sda.ioc.factory.good.Shirt;
+import io.kch.sda.ioc.factory.resource.Dye;
+import io.kch.sda.ioc.factory.resource.Fabric;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
 

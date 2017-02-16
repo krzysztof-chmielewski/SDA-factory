@@ -1,8 +1,8 @@
-package io.kch.sda.ioc.factory.core;
+package io.kch.sda.ioc.factory;
 
-import io.kch.sda.ioc.factory.core.config.Config;
-import io.kch.sda.ioc.factory.core.factory.ShirtFactory;
-import io.kch.sda.ioc.factory.core.resource.Dye;
+import io.kch.sda.ioc.factory.config.Config;
+import io.kch.sda.ioc.factory.factory.ShirtFactory;
+import io.kch.sda.ioc.factory.resource.Dye;
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 

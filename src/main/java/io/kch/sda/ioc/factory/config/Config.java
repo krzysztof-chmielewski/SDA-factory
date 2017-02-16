@@ -1,10 +1,10 @@
-package io.kch.sda.ioc.factory.core.config;
+package io.kch.sda.ioc.factory.config;
 
-import io.kch.sda.ioc.factory.core.factory.Factory;
-import io.kch.sda.ioc.factory.core.good.Good;
-import io.kch.sda.ioc.factory.core.good.Quality;
-import io.kch.sda.ioc.factory.core.resource.Dye;
-import io.kch.sda.ioc.factory.core.resource.Resource;
+import io.kch.sda.ioc.factory.factory.Factory;
+import io.kch.sda.ioc.factory.good.Good;
+import io.kch.sda.ioc.factory.good.Quality;
+import io.kch.sda.ioc.factory.resource.Dye;
+import io.kch.sda.ioc.factory.resource.Resource;
 import org.springframework.context.annotation.*;
 
 import java.io.PrintStream;

@@ -1,7 +1,7 @@
-package io.kch.sda.ioc.factory.core.good;
+package io.kch.sda.ioc.factory.good;
 
-import io.kch.sda.ioc.factory.core.resource.Dye;
-import io.kch.sda.ioc.factory.core.resource.Fabric;
+import io.kch.sda.ioc.factory.resource.Dye;
+import io.kch.sda.ioc.factory.resource.Fabric;
 
 public class Shirt implements Good {
     private final Quality quality;
